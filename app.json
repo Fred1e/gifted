@@ -2,9 +2,9 @@
   "name": "gifted-md@v5.0.0",
   "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make whatsapp experience better",
   "website": "https://api.giftedtechnexus.co.ke",
-  "repository": "https://github.com/mouricedevs/gifted",
+  "repository": "https://github.com/Fred1e/Chuga",
   "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
-  "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
+  "keywords": ["chuga-md", "chuga", "Chuga-Md"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": { 
@@ -16,12 +16,12 @@
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
       "required": true,
-      "value": "GIFTED TECH"
+      "value": "FREDI TECH"
     },
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": true,
-      "value": "254762016957"
+      "value": "255620814108,255764182801,255752593977"
     },
     "AUTO_STICKER": {
       "description": "Put true/false to enable auto conversion of videos and photos as stickers",
