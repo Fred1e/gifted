@@ -1,9 +1,9 @@
 {
-  "name": "gifted-md@v5.0.0",
-  "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make whatsapp experience better",
+  "name": "chuga-md@v5.0.0",
+  "description": "I am Chuga-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make whatsapp experience better",
   "website": "https://api.giftedtechnexus.co.ke",
   "repository": "https://github.com/Fred1e/Chuga",
-  "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
+  "logo": "https://files.catbox.moe/6njx4r.jpg",
   "keywords": ["chuga-md", "chuga", "Chuga-Md"],
   "success_url": "/",
   "stack": "heroku-24",
