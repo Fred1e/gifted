@@ -1,17 +1,17 @@
 {
-  "name": "gifted-md",
+  "name": "chuga-md",
   "version": "5.0.0",
-  "description": "Gifted latest multi device whatsapp bot",
+  "description": "Chuga latest multi device whatsapp bot",
   "main": "./index.js",
   "type": "module",
   "engines" : { "node": "v20.5.0", "npm": "v10.8.3" },
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name gifted",
-    "stop": "pm2 stop gifted",
-    "restart": "pm2 restart gifted"
+    "start": "pm2 start index.js --deep-monitoring --attach --name chuga",
+    "stop": "pm2 stop chuga",
+    "restart": "pm2 restart chuga"
   },
-  "keywords": ["gifted-md", "whatsapp-bot", "gifted-tech"],
-  "author": "Gifted Tech",
+  "keywords": ["chuga-md", "whatsapp-bot", "fredi-tech"],
+  "author": "Fredie Tech",
   "license": "GNU",
   "dependencies": {
     "gifted-baileys": "^1.5.1",
@@ -85,10 +85,10 @@
       },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/mouricedevs/gifted.git"
+      "url": "git+https://github.com/Fred1e/Chuga.git"
    },
    "bugs": {
-      "url": "https://github.com/mouricedevs/gifted/issues"
+      "url": "https://github.com/Fred1e/Chuga/issues"
    },
-   "homepage": "https://github.com/mouricedevs/gifted#readme"
+   "homepage": "https://github.com/Fred1e/Chuga#readme"
 }
